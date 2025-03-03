@@ -1,4 +1,5 @@
 "Hello world",
 "hello Denver",
 "next change",
-"for git pull"
+"for git pull",
+"for CLI"
